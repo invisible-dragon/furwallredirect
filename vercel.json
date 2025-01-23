@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "https://baidu.com" }
+    { "source": "/(.*)", "destination": "https://q.jinsom.cn" }
   ]
 }
