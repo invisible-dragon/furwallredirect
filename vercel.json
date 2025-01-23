@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "https://q.jinsom.cn" }
+    { "source": "/(.*)", "destination": "http://www.furwall.net" }
   ]
 }
