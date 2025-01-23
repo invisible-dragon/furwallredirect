@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/(.*)", "destination": "https://my.furwall.net" }
+    { "source": "/(.*)", "destination": "https://baidu.com" }
   ]
 }
